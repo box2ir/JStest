@@ -1,7 +1,10 @@
+'use strict';
+
 // var number = 5;
 // var string = "Hello";
 // var sym = Symbol();
 // var boolean = true;
+
 
 // var obj = {};
 
@@ -53,4 +56,3 @@
 // console.log(incr);
 // console.log(decr);
 
-console.log(true > false);
