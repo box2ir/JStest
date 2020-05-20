@@ -55,4 +55,9 @@
 // console.log(decr--);
 // console.log(incr);
 // console.log(decr);
-
+let num = 50;
+if (num > 49) {
+    console.log('Больше 49');
+} else{
+    console.log('Меньше 49');
+}
